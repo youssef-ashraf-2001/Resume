@@ -22,3 +22,6 @@ html{
    justify-content: center;
    align-items: center;
 }
+.black-txt{
+   color: rgb(0, 0, 0);
+}
